@@ -14,6 +14,8 @@ A model which detects the spam messages.
 2. SVC
 3. RandomForestClassifier
 4. MultinomialNB
+![download (5)](https://user-images.githubusercontent.com/62711040/124325954-3af1a800-dba3-11eb-9fac-12715919155c.png)
+
 
 ## Libraries used
 1. Numpy
