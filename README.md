@@ -9,6 +9,12 @@ A model which detects the spam messages.
 4. Splitting and prediction.
 5. Evaluation and testing.
 
+## Classifiers
+1. LogisticRegression
+2. SVC
+3. RandomForestClassifier
+4. MultinomialNB
+
 ## Libraries used
 1. Numpy
 2. Pandas
@@ -16,9 +22,3 @@ A model which detects the spam messages.
 4. Seaborn
 5. nltk
 6. scikit-learn
-
-## Classifiers
-1. LogisticRegression
-2. SVC
-3. RandomForestClassifier
-4. MultinomialNB
